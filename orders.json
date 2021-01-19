@@ -102,7 +102,7 @@
     "rejectionReasonId": null,
     "birthDate": "1991-03-12T00:00:00+02:00",
     "signOfConsent": true,
-    "statusId": 8,
+    "statusId": 5,
     "status": {
       "colorStatus": null,
       "isActive": false,
@@ -380,7 +380,7 @@
     "rejectionReasonId": null,
     "birthDate": "1991-03-12T00:00:00+02:00",
     "signOfConsent": true,
-    "statusId": 8,
+    "statusId": 7,
     "status": {
       "colorStatus": null,
       "isActive": false,
