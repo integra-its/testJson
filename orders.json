@@ -211,7 +211,7 @@
       "id": 0,
       "isEmpty": false
     },
-    "change": 1233,
+    "change": 0.00,
     "comment": null,
     "commentAddress": null,
     "commentCustomer": null,
@@ -489,7 +489,7 @@
       "id": 0,
       "isEmpty": false
     },
-    "change": 1233,
+    "change": 1233.00,
     "comment": null,
     "commentAddress": null,
     "commentCustomer": null,
@@ -767,7 +767,7 @@
       "id": 0,
       "isEmpty": false
     },
-    "change": 500,
+    "change": 500.00,
     "comment": null,
     "commentAddress": null,
     "commentCustomer": null,
@@ -1045,7 +1045,7 @@
       "id": 0,
       "isEmpty": false
     },
-    "change": 0,
+    "change": 0.0,
     "comment": null,
     "commentAddress": null,
     "commentCustomer": null,
@@ -1323,7 +1323,7 @@
       "id": 0,
       "isEmpty": false
     },
-    "change": 0,
+    "change": 0.0,
     "comment": null,
     "commentAddress": null,
     "commentCustomer": null,
@@ -1601,7 +1601,7 @@
       "id": 0,
       "isEmpty": false
     },
-    "change": 500,
+    "change": 500.00,
     "comment": null,
     "commentAddress": null,
     "commentCustomer": null,
@@ -1879,7 +1879,7 @@
       "id": 0,
       "isEmpty": false
     },
-    "change": 100,
+    "change": 100.00,
     "comment": null,
     "commentAddress": "Залишити на пункті охорони",
     "commentCustomer": null,
